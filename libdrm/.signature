@@ -1,0 +1,5 @@
+untrusted comment: verify with wayland-musl.pub
+RWSz17+UOTz9Gbq4oFMkj+svOlM6Sm67c+h52i3J5ntYfg7aHGr7qb1OQN/v9RMkM/4vZKbV5eKSjKty2XMDHCaeu3CHni8jJQQ=
+SHA256 (Pkgfile) = 23d5bb004ed559a3cf0da2e15d1c934f699ed10037484edc05aae6a8ab6b6eb8
+SHA256 (.footprint) = 68870eef6845599d761376a57748ae6a854b954c0695dee2ea423680388a5db5
+SHA256 (libdrm-2.4.120.tar.xz) = 3bf55363f76c7250946441ab51d3a6cc0ae518055c0ff017324ab76cdefb327a

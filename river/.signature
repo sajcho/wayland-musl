@@ -1,5 +1,5 @@
 untrusted comment: verify with wayland-musl.pub
-RWSz17+UOTz9GQ9WSDq1YpP0pbtgpdRLcLZUZYr3qNt69y2yJRNyOkuM/LovEZhNaCZNpH5/NTBlPc1rUVY1K/oARu9xwSyMDgc=
-SHA256 (Pkgfile) = fa4c9840a113937950ff8564a91bcdff25ee4e55632d01161af16f8f08eb0d93
+RWSz17+UOTz9GbJGaiCIbbNt8YcwaV5LGNfZ49flpjhlS4GVpYFxC+GrUi/6lDj4cuDR3jAOpnHr/5y4fTiW2c8wKDWXRC31jg8=
+SHA256 (Pkgfile) = 593095dfc6a477159e3b1eae3e81ff55549f0a06774aaf081c5d1fa009298c32
 SHA256 (.footprint) = 4ff807ca725f98ac5514ce97cc298dc0b4ffac301b75d204dfec2a3f5a368907
-SHA256 (river-0.3.0.tar.gz) = 3e8161f4443e7366e1ef0e0a3062daeb7fd5014cae953a95e3b878e8fc30adec
+SHA256 (river-0.3.2.tar.gz) = acb273487eb0cf9222c14e050c0faad692f426dba599b62e4c743ba43328ee9e

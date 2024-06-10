@@ -4,18 +4,16 @@
 # Depends on:	elfutils libdrm llvm-toolchain lm-sensors python3-mako wayland-protocols
 
 name=mesa
-version=24.1.0
+version=24.1.1
 release=1
 source=(https://archive.mesa3d.org/${name}-${version}.tar.xz \
-	no-unlink-megadrivers.patch \
-	musl-fix-stack-overflow.patch)
+	no-unlink-megadrivers.patch)
 
 build() {
 	cd ${name}-${version}
 
 	# from alpine linux
 	patch -p1 -i $SRC/no-unlink-megadrivers.patch
-	patch -p1 -i $SRC/musl-fix-stack-overflow.patch
 
 	build-meson \
 		-Dplatforms=wayland \

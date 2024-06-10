@@ -1,7 +1,6 @@
 untrusted comment: verify with wayland-musl.pub
-RWSz17+UOTz9Gcx5eDl8W/G7l/n++wHIgqsNTgPikhMYRuE4GpFbrKaDNTnDkmBOjhxo0q2einkmNf5FPRCQcmqcxSE5kN+YUgA=
-SHA256 (Pkgfile) = 585c2c00a8729da3d1687f10b9521f0a22b125ac12cf7c3328a7c43128df519a
+RWSz17+UOTz9GQ5D0edE8ElkMQa8TtQ256tFlb9okQy75dRUxf7PjvLQAuhyW520A06IMeh6UODQP4SnVpSL2grcKbCiJbtNkgE=
+SHA256 (Pkgfile) = b56e86e11a9cb6fb820e6f84673e8995c201c94f7c7ff23e8639cba93b84e36c
 SHA256 (.footprint) = 5ea02d2acb3ffa4286f15e733296e32e86189ecb3594bc52c3d3c3d87c8fc42e
-SHA256 (mesa-24.1.0.tar.xz) = b7eac8c79244806b1c276eeeacc329e4a5b31a370804c4b0c7cd16837783f78b
+SHA256 (mesa-24.1.1.tar.xz) = 0038826c6f7e88d90b4ce6f719192fa58ca7dedf4edcaa1174cf7bd920ef89ea
 SHA256 (no-unlink-megadrivers.patch) = 2eac5a17bda598d13d570592c1fb2b5b80eb2e1cd6f01ef04f1a6d7ac9457f0b
-SHA256 (musl-fix-stack-overflow.patch) = 4d4245c3942321be5294a6d7bad73f4a4515c263453d16b92a6dd5b56c5926fd

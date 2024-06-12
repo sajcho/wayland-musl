@@ -1,0 +1,6 @@
+# wayland-musl ports collection
+#
+# https://github.com/sajcho/wayland-musl
+
+ROOT_DIR=/usr/ports/wayland-musl
+URL=https://raw.githubusercontent.com/sajcho/wayland-musl/main

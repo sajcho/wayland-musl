@@ -1,0 +1,34 @@
+# Description:	FTP Client
+# URL:		https://filezilla-project.org/
+# Maintainer:	sajcho, saux dot aarch64 at gmail dot com
+# Depends on:	boost libfilezilla libidn pugixml wxwidgets
+
+name=filezilla
+_realname=FileZilla
+version=3.66.5
+release=1
+source=(https://download.filezilla-project.org/client/${_realname}_${version}_src.tar.xz \
+	filezilla-3.66.5-disable-xdg-open.patch)
+
+build() {
+	cd ${name}-${version}
+
+	# disable xdg-open: requires additional ports - useless?!
+	patch -p1 -i $SRC/${name}-${version}-disable-xdg-open.patch
+
+	NOCONFIGURE=1 autoreconf -fiv
+
+	./configure \
+		--build=$CHOST \
+		--host=$CHOST \
+		--prefix=/usr \
+		--sysconfdir=/etc \
+		--disable-manualupdatecheck \
+		--disable-autoupdatecheck \
+		--disable-locales \
+		--without-dbus
+
+	make V=1
+
+	make DESTDIR=$PKG install
+}

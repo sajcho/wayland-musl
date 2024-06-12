@@ -1,0 +1,6 @@
+untrusted comment: verify with wayland-musl.pub
+RWSz17+UOTz9GXHYHh9uio6TXHNmiZCr8/SDwD2dMO8S5qN/IHthw2ld8jYGNyIqmFqUGliREdFOqLLLT8hT4zavgZwKZQtRcgM=
+SHA256 (Pkgfile) = b77532203e06563e1685ca12a426c9d688059c46b94b519e6c069a2cfb960d8b
+SHA256 (.footprint) = 1f6fad0b8bb9e2971e0111a3f0de36c5f6cbbd986d851d5b3adda68a9fb79d84
+SHA256 (wayland-1.23.0.tar.xz) = 05b3e1574d3e67626b5974f862f36b5b427c7ceeb965cb36a4e6c2d342e45ab2
+SHA256 (tests-ignore-debugger.patch) = 8d4067ff74854c1be8c4dbd2e497c7978d870e85e2de2efaf618db81b2f08b83

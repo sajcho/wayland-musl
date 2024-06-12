@@ -1,0 +1,6 @@
+untrusted comment: verify with wayland-musl.pub
+RWSz17+UOTz9GX1at4XCtE+q2NmYejx8Guy056KOATDQPsYDg+nwXmYaNgQrq6hT3FzG+n6D+DRUAxnTanyVMma+332D8K8abg4=
+SHA256 (Pkgfile) = 599ba3c139406225a61e0db3ddd50edb8451bbd7d70a8c16adc8f08cc36f7999
+SHA256 (.footprint) = 03b86703f7f9b3e9f881fe923cc9a2588f02d2969b828802b642541c113c5409
+SHA256 (FileZilla_3.66.5_src.tar.xz) = 92122819bae6341070ba4b6ecb457e6730b46e7dc89942990903f298903d1b3b
+SHA256 (filezilla-3.66.5-disable-xdg-open.patch) = 6ad2d4549f01722859bb9fe866b9a6df9921f502631c60579e3a08f6f8fd7c46

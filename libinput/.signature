@@ -1,0 +1,5 @@
+untrusted comment: verify with opt-musl.pub
+RWQz1jdGqyZrpMlXNMiO/bqZw/rIXMhHVUdsdRq1uTVX8jO+DVeLlS8e6ujZY7Da1VwzPw5+psbqDAn+QRN3PnfdT8w+IRgbVwM=
+SHA256 (Pkgfile) = 4bece8c10db1e656c99a133924fe75a27977703de7f948fc51a4964345948f2a
+SHA256 (.footprint) = b2313763b857113ede92a4abf1fbc0dc259e2f9cc1b5fa1a52a24373b611fac9
+SHA256 (libinput-1.25.0.tar.bz2) = 193bd592298bd9e369c0ef3e5d83a6a9d68ddc4cd3dfc84bbe77920a8d0d57df

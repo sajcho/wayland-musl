@@ -1,0 +1,26 @@
+# Description:	Encode/Decode library for internationalized domain names
+# URL:		https://www.gnu.org/software/libidn
+# Maintainer:	sajcho, saux dot aarch64 at gmail dot com
+# Depends on:	help2man texinfo
+
+name=libidn
+version=1.42
+release=1
+source=(https://ftpmirror.gnu.org/gnu/libidn/${name}-${version}.tar.gz \
+	format-security.patch)
+
+build() {
+	cd ${name}-${version}
+
+	patch -p1 -i $SRC/format-security.patch
+
+	./configure \
+		--build=$CHOST \
+		--host=$CHOST \
+		--prefix=/usr \
+		--disable-nls
+
+	make V=1
+
+	make DESTDIR=$PKG install
+}

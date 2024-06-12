@@ -1,6 +1,0 @@
-untrusted comment: verify with opt-musl.pub
-RWQz1jdGqyZrpIMVBwbCV4StKPhSHxOsppecvGIfB0p/YTi7wnoMybcqHrfvm9GOmK+ssK0TkGng9LyFjj6VH0XgPgWVbx3XoQ0=
-SHA256 (Pkgfile) = a315566892daf87d85688fc8942bb7516ef6383199f47a44d04f41a50a6e7737
-SHA256 (.footprint) = 51bd6270b3d393dd061cdebd5200be06e8c8493a820d00fa65dc0d01613320b3
-SHA256 (cairo-1.18.0.tar.bz2) = abf8fba4d510086a492783c3e0828e90b32734738fd80906595617d229d02bab
-SHA256 (musl-stacksize.patch) = 1f8b337479fba99e5297383765c91b145aa1b09a9322606adb667f8b441db252

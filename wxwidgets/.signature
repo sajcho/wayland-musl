@@ -1,9 +1,0 @@
-untrusted comment: verify with wayland-musl.pub
-RWSz17+UOTz9GWX8wF1R/O9+Fhh3Yw6LDukKqdgNqD5SS73Sj1vDLMjw2qRkrwZtgCwPFTtJr1cmuQpmunQO5AA/97z7pXjLfA4=
-SHA256 (Pkgfile) = beaab6e790515522baf7b22e117c2bacc4092c9e94238862209047eb2ce76c21
-SHA256 (.footprint) = b85c809d2ba7b4a092f6a46866108e3f165c2aab9061e06c62ffae97337cecae
-SHA256 (wxWidgets-3.2.2.1.tar.bz2) = dffcb6be71296fff4b7f8840eb1b510178f57aa2eb236b20da41182009242c02
-SHA256 (invalid-header-syntax.patch) = 4ad21528b3b3ec1ed69b0ccddaa8badf1b895a1e83235ec9cf23511a40330888
-SHA256 (largefile.patch) = 95973cf183f1643f6f35b389b13224aa9a3e29419a7b9dabcc55e733c31c51f5
-SHA256 (musl-locale-l.patch) = 69f2dc1a98fbddf338e301f5d45fdd0a84d3692ec48a83b8f29c39b9ecee9d82
-SHA256 (no-langinfo-h.patch) = b51bc705326bfdb6dd3de95ece33bb4c21cb01c696d67e73db649c57fc423426
